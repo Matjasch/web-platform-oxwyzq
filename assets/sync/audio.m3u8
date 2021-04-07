@@ -5,11 +5,11 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:8.0
-https://raw.githubusercontent.com/Matjasch/web-platform-oxwyzq/raw/master/assets/sync/500.ts
+https://github.com/Matjasch/web-platform-oxwyzq/raw/master/assets/sync/500.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:8.0
-https://raw.githubusercontent.com/Matjasch/web-platform-oxwyzq/raw/master/assets/sync/1000.ts
+https://github.com/Matjasch/web-platform-oxwyzq/raw/master/assets/sync/1000.ts
 #EXT-X-DISCONTINUITY
 #EXTINF:8.0
-https://raw.githubusercontent.com/Matjasch/web-platform-oxwyzq/raw/master/assets/sync/1500.ts
+https://github.com/Matjasch/web-platform-oxwyzq/raw/master/assets/sync/1500.ts
 #EXT-X-ENDLIST
